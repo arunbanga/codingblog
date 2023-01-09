@@ -202,7 +202,7 @@ const contact = () => {
             <div>
               <input type="submit" value="Submit" className={styles.btn} />
             </div>
-            {/* <div style={{ marginTop: "10px" }}>
+            <div style={{ marginTop: "10px" }}>
               {additem.map((val) => {
                 return (
                   <>
@@ -221,7 +221,7 @@ const contact = () => {
                   </>
                 );
               })}
-            </div> */}
+            </div>
           </form>
         </div>
       </div>
