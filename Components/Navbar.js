@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <>
       <div className="nav">
-        <nav className="text-center p-4">
+        <nav className="text-center p-2">
           <ul
             // style={{
             //   display: "flex",
